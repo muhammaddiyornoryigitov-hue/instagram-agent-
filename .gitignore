@@ -1,0 +1,7 @@
+# Maxfiy ma'lumotlar — hech qachon git'ga tushmasin
+.env
+.env.*
+*.key
+*secret*
+*token*
+claude_desktop_config.json

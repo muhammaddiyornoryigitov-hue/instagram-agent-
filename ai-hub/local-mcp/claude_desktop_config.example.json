@@ -1,0 +1,18 @@
+{
+  "mcpServers": {
+    "gemini": {
+      "command": "<server ishga tushirish buyrug'i, masalan: node>",
+      "args": ["<gemini server fayli yo'li>"],
+      "env": {
+        "GEMINI_API_KEY": "<KALITNI BU YERGA YOZMANG — faqat lokal faylda>"
+      }
+    },
+    "uzbekvoice": {
+      "command": "<server ishga tushirish buyrug'i>",
+      "args": ["<uzbekvoice server fayli yo'li>"],
+      "env": {
+        "UZBEKVOICE_API_KEY": "<KALITNI BU YERGA YOZMANG — faqat lokal faylda>"
+      }
+    }
+  }
+}

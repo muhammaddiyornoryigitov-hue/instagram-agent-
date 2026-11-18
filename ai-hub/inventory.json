@@ -1,0 +1,17 @@
+{
+  "updated": "2026-11-18",
+  "cloud_connectors": [
+    {"name": "Google Drive", "status": "connected"},
+    {"name": "Notion", "status": "connected"},
+    {"name": "Windsor.ai", "status": "connected", "accounts": [
+      {"platform": "instagram", "handle": "hafsa_ustoza"},
+      {"platform": "youtube", "handle": "Hafsa ustoza"}
+    ]},
+    {"name": "Zapier", "status": "connected", "enabled_apps": ["YouTube"]}
+  ],
+  "local_mcp_servers": [
+    {"name": "gemini", "host": "windows-desktop", "status": "working", "secret_env": "GEMINI_API_KEY"},
+    {"name": "uzbekvoice", "host": "windows-desktop", "status": "key_present_server_404", "secret_env": "UZBEKVOICE_API_KEY"}
+  ],
+  "skills": ["docs", "xlsx", "pptx", "docx", "pdf", "video-making", "google-workspace", "deep-research", "computer-use", "built-in-browser", "chrome-browser", "artifact-emulator", "morning", "skill-creator", "import-memory"]
+}
